@@ -4,7 +4,9 @@ and solve complex problems in science, engineering, computer graphics, and espec
 
 ### 1.1 Organizing Information 
  how linear algebra organizes and reorganizes information:
+ 
     Individual portfolio → dot product 
+    
     Multiple portfolios → matrix-vector multiplication
 
 Example:  (Of organizing and reorganizing information)
