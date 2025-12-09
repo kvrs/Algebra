@@ -3,6 +3,10 @@
 and solve complex problems in science, engineering, computer graphics, and especially modern machine learning by representing data as vectors and matrices for efficient computation. 
 
 ### 1.1 Organizing Information 
+ how linear algebra organizes and reorganizes information:
+    Individual portfolio → dot product 
+    Multiple portfolios → matrix-vector multiplication
+
 Example:  (Of organizing and reorganizing information)
      You own stock in 3 companies: Google, Netflix, and Apple. The value V of your
 stock portfolio as a function of the number of shares you own sN; sG; sA of these
